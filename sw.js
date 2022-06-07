@@ -10,7 +10,7 @@ const APP_SHELL = [
     './index.html',
     './desarrollo.html',
     './higiene.html',
-    ',/salud.html',
+    './salud.html',
     './css/styles.css',
     './assets/favicon.ico',
     './js/app.js',
